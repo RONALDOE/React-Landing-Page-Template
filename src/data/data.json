@@ -1,184 +1,184 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Power Electric Consulting",
+    "paragraph": "Expertos en soluciones eléctricas. Brindamos asesoramiento y servicios especializados para optimizar y garantizar la eficiencia energética de su empresa."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "En Power Electric Consulting, somos líderes en la industria de consultoría eléctrica, ofreciendo servicios de alta calidad y soluciones personalizadas. Nuestro equipo de expertos se dedica a ayudar a las empresas a mejorar su eficiencia energética y a reducir costos operativos mediante el uso de tecnologías avanzadas y estrategias innovadoras.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Equipo de expertos altamente calificados",
+      "Soluciones personalizadas y adaptadas a sus necesidades",
+      "Tecnologías de vanguardia",
+      "Compromiso con la eficiencia y sostenibilidad"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Atención al cliente excepcional",
+      "Amplia experiencia en la industria",
+      "Resultados comprobados",
+      "Enfoque en la sostenibilidad"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Optimización de sistemas eléctricos",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Proyectos de energía renovable",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Auditorías energéticas",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Instalaciones de alta eficiencia",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Consultoría en sostenibilidad",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Soluciones industriales",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Mantenimiento preventivo",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Evaluaciones de riesgo eléctrico",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Capacitaciones y formación",
       "largeImage": "img/portfolio/09-large.jpg",
       "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-bolt",
+      "name": "Consultoría Energética",
+      "text": "Ofrecemos análisis detallados y soluciones para mejorar la eficiencia energética y reducir los costos operativos de su empresa."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-sun-o",
+      "name": "Energía Renovable",
+      "text": "Implementamos y optimizamos proyectos de energía solar, eólica y otras fuentes renovables para un futuro sostenible."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-wrench",
+      "name": "Mantenimiento Eléctrico",
+      "text": "Brindamos servicios de mantenimiento preventivo y correctivo para asegurar el funcionamiento óptimo de sus sistemas eléctricos."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cogs",
+      "name": "Automatización Industrial",
+      "text": "Desarrollamos e implementamos soluciones de automatización para mejorar la productividad y eficiencia de sus procesos industriales."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-shield",
+      "name": "Seguridad Eléctrica",
+      "text": "Realizamos evaluaciones de riesgo y diseñamos sistemas de seguridad para proteger su infraestructura eléctrica."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-line-chart",
+      "name": "Auditorías Energéticas",
+      "text": "Ofrecemos auditorías energéticas completas para identificar oportunidades de ahorro y eficiencia en sus instalaciones."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Power Electric Consulting transformó nuestra planta industrial con sus soluciones de automatización. Ahora operamos de manera más eficiente y con menos costos.\"",
+      "name": "Carlos Mendoza"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Gracias a la consultoría de Power Electric Consulting, hemos reducido significativamente nuestro consumo de energía y los costos asociados.\"",
+      "name": "Laura Gómez"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"El equipo de Power Electric Consulting es altamente profesional y nos brindó un servicio excepcional desde el inicio hasta el final del proyecto.\"",
+      "name": "Jorge Pérez"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Recomiendo ampliamente a Power Electric Consulting. Su conocimiento y experiencia en el campo de la energía renovable son insuperables.\"",
+      "name": "Ana Ruiz"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Su enfoque en la sostenibilidad y la eficiencia energética nos ha permitido mejorar nuestras operaciones y reducir nuestro impacto ambiental.\"",
+      "name": "Ricardo Díaz"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"El mantenimiento preventivo realizado por Power Electric Consulting ha sido clave para mantener nuestra infraestructura eléctrica en perfecto estado.\"",
+      "name": "María López"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
+      "name": "Alejandro Torres",
       "job": "Director"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Miguel Fernández",
+      "job": "Ingeniero Senior"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Isabel García",
+      "job": "Diseñadora de Proyectos"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Lucía Martínez",
+      "job": "Gerente de Proyectos"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "Ave. De La Vega Real #88, Segundo Nivel, Arroyo Hondo, Santo Domingo.",
+    "phone": "+1 (809)-245-4723",
+    "email": "info@pec.do",
+    "facebook": "https://facebook.com/powerelectricconsulting",
+    "twitter": "https://twitter.com/powerelectric",
+    "youtube": "https://youtube.com/powerelectricconsulting"
   },
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Asesoramiento Personalizado",
+      "text": "Ofrecemos asesoramiento personalizado para cada cliente, garantizando soluciones que se adapten a sus necesidades específicas."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Soporte Continuo",
+      "text": "Brindamos soporte continuo durante y después de la implementación de nuestros servicios, asegurando el éxito a largo plazo de sus proyectos."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Equipo Experto",
+      "text": "Nuestro equipo está compuesto por profesionales altamente calificados con amplia experiencia en el sector eléctrico y energético."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Innovación Constante",
+      "text": "Nos mantenemos a la vanguardia de las tecnologías y prácticas innovadoras para ofrecer las mejores soluciones a nuestros clientes."
     }
   ]
 }

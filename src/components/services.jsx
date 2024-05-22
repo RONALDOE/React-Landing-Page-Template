@@ -2,22 +2,24 @@ import React from "react";
 
 export const Services = (props) => {
   return (
-    <div id="services" className="text-center">
-      <div className="container">
-        <div className="section-title">
-          <h2>Our Services</h2>
+    <div id='services' className='text-center'>
+      <div className='container'>
+        <div className='section-title'>
+          <h2>Nuestros Servicios</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+            Ofrecemos una amplia gama de servicios diseñados para satisfacer las
+            necesidades de su empresa. Desde consultoría estratégica hasta
+            implementación de tecnología avanzada, estamos aquí para ayudarle a
+            alcanzar sus objetivos empresariales con soluciones a medida.
           </p>
         </div>
-        <div className="row">
+        <div className='row'>
           {props.data
             ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4">
+                <div key={`${d.name}-${i}`} className='col-md-4'>
                   {" "}
                   <i className={d.icon}></i>
-                  <div className="service-desc">
+                  <div className='service-desc'>
                     <h3>{d.name}</h3>
                     <p>{d.text}</p>
                   </div>
